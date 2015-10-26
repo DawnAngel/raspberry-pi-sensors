@@ -1,7 +1,3 @@
-# raspberry-pi-sensors
-Raspberry Pi custom sensors build
-
-
 # Raspberry Pi Sensors
 
 Here there all the required Lua scripts to let your Raspberry Pi read information 
